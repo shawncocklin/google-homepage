@@ -1,0 +1,46 @@
+
+header a{
+  text-decoration: none;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header .about-store {
+  position: absolute;
+  padding: 10px;
+}
+
+header .gmail-images {
+  position: absolute;
+  width: fit-content;
+  left: 88%;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.about-store a {
+  padding-left: 15px;
+} 
+.gmail-images a {
+  padding-right: 15px;
+}
+
+#main {
+  position: relative;
+  top: 100px;
+}
+
+.logo img{
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.searchbar input{
+  display: block;
+  margin: auto;
+}
+
+input { 
+  
+}
